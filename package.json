@@ -55,7 +55,7 @@
   },
   "devDependencies": {
     "chai": "^4.0.2",
-    "electron": "^1.7.3",
+    "electron": "^1.8.8",
     "electron-builder": "^19.9.1",
     "electron-mocha": "^4.0.0",
     "gulp": "^3.9.1",
